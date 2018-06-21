@@ -1,0 +1,5 @@
+deployment:
+  somework:
+    branch: master
+    heroku:
+      appname: this-is-app-for-directory
