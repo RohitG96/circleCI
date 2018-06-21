@@ -1,1 +1,1 @@
-web: python testing.hello:app --log-file=-
+web: python testing.hello.py --log-file=-
